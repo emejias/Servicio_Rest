@@ -1,5 +1,5 @@
 # Servicio Rest
-Servicio REST creado para la edición de registros (Personas en base de datos PostgreSQL)
+Servicio REST creado para la gestión de registros (CRUD) (Personas en base de datos PostgreSQL)
 
 ## Stack.
 
